@@ -1,8 +1,4 @@
-# Project Title
-
-WordPress Crop-Image CVE-2019-8943
-
-## Description
+# WordPress Crop-Image CVE-2019-8943
 
 A python3 script for WordPress Crop-Image CVE-2019-8943 Authenticated Remote Code Execution (RCE). It drops a malicious PHP backdoor.
 
